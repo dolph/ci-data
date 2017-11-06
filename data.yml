@@ -1,2 +1,11 @@
 ---
-journeys: []
+journeys:
+- repo: IBM/starcraft2-replay-analysis
+  trailing-whitespace: false
+  yml-not-yaml: true
+- repo: IBM/watson-calorie-counter
+  trailing-whitespace: false
+  yml-not-yaml: false
+- repo: IBM/watson-waste-sorter
+  trailing-whitespace: true
+  yml-not-yaml: true
