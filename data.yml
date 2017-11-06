@@ -1,5 +1,10 @@
 ---
-!!python/unicode 'IBM/starcraft2-replay-analysis': {trailing-whitespace.sh: false,
-  yml-not-yaml.sh: true}
-!!python/unicode 'IBM/watson-calorie-counter': {trailing-whitespace.sh: false, yml-not-yaml.sh: false}
-!!python/unicode 'IBM/watson-waste-sorter': {trailing-whitespace.sh: true, yml-not-yaml.sh: true}
+!!python/unicode 'IBM/starcraft2-replay-analysis':
+  trailing-whitespace.sh: false
+  yml-not-yaml.sh: true
+!!python/unicode 'IBM/watson-calorie-counter':
+  trailing-whitespace.sh: false
+  yml-not-yaml.sh: false
+!!python/unicode 'IBM/watson-waste-sorter':
+  trailing-whitespace.sh: true
+  yml-not-yaml.sh: true
