@@ -1,122 +1,82 @@
 ---
 journeys:
 - repo: IBM/OpenWhiskChatAssistant
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/SystemML_Usage
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/alexa-skill-watson-conversation
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/chatbot-deployer
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/cognitive-social-crm
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/deploy-graph-db-container
-  trailing-whitespace: false
   yml-not-yaml: false
 - repo: IBM/dsx-twitter-auto-analysis
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/elasticsearch-spark-recommender
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/gdpr-fingerprint-pii
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/graph-db-insights
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/janusgraph-utils
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/kafka-streaming
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/node-red-dsx-workflow
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/pixiedust-facebook-analysis
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/pixiedust-traffic-analysis
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/powerai-notebook
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/powerai-transfer-learning
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/spark-tpc-ds-performance-test
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/sparksql-for-hbase
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/starcraft2-replay-analysis
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/tensorflow-hangul-recognition
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/tensorflow-kubernetes-art-classification
-  trailing-whitespace: true
   yml-not-yaml: false
 - repo: IBM/tjbot-sports-buddy
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/unity-sdk
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/voice-of-the-customer
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/vr-speech-sandbox-cardboard
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/vr-speech-sandbox-rift
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/vr-speech-sandbox-vive
-  trailing-whitespace: false
   yml-not-yaml: true
 - repo: IBM/watson-banking-chatbot
-  trailing-whitespace: false
   yml-not-yaml: false
 - repo: IBM/watson-calorie-counter
-  trailing-whitespace: false
   yml-not-yaml: false
 - repo: IBM/watson-conversation-slots-intro
-  trailing-whitespace: true
   yml-not-yaml: false
 - repo: IBM/watson-discovery-analyze-data-breaches
-  trailing-whitespace: true
   yml-not-yaml: false
 - repo: IBM/watson-discovery-news
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/watson-discovery-news-alerting
-  trailing-whitespace: false
   yml-not-yaml: false
 - repo: IBM/watson-document-classifier
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/watson-document-co-relation
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/watson-multimedia-analyzer
-  trailing-whitespace: false
   yml-not-yaml: false
 - repo: IBM/watson-online-store
-  trailing-whitespace: false
   yml-not-yaml: false
 - repo: IBM/watson-review-analyzer
-  trailing-whitespace: true
   yml-not-yaml: true
 - repo: IBM/watson-waste-sorter
-  trailing-whitespace: true
   yml-not-yaml: true
