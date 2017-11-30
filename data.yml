@@ -1,5 +1,3 @@
 ---
 journeys:
-- repo: IBM/starcraft2-replay-analysis
 - repo: IBM/watson-calorie-counter
-- repo: IBM/watson-waste-sorter
